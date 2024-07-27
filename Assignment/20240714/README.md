@@ -1,8 +1,17 @@
-# Assignment
+# Assignment 1
 
-Solve followings ("주식 시뮬레이션" is mandatory):
+You should pass all tests by running `cargo test`.
 
-- [acmicpc<29733> - "3 차원 지뢰찾기 "](https://www.acmicpc.net/problem/29733)
-- [acmicpc<31001> - "주식 시뮬레이션"](https://www.acmicpc.net/problem/31001)
-- [acmicpc<28457> - "Every? Only One's Marble"](https://www.acmicpc.net/problem/28457)
-- [acmicpc<17081> - "RPG Extreme"](https://www.acmicpc.net/problem/17081)
+1. [Fibonacci](./fibonacci)
+
+2. [Collatz Sequence](./collatz-sequence)
+
+3. [Nested Arrays](./nested-arrays)
+
+4. [Role Playing Game](./role-playing-game)
+
+5. [RPN Calculator](./rpn-calculator)
+
+6. [Minesweeper](./minesweeper)
+
+7. [Stock Simulator (BOJ 31001)](https://www.acmicpc.net/problem/31001)
